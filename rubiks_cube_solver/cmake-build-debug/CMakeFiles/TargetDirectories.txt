@@ -1,0 +1,3 @@
+C:/Users/avikh/OneDrive/Desktop/Rubiks Cube Solver/rubiks_cube_solver/cmake-build-debug/CMakeFiles/rubiks_cube_solver.dir
+C:/Users/avikh/OneDrive/Desktop/Rubiks Cube Solver/rubiks_cube_solver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/avikh/OneDrive/Desktop/Rubiks Cube Solver/rubiks_cube_solver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
